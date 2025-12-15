@@ -1,6 +1,12 @@
 h1 {
   margin: 0%;
 }
+h2 {
+  margin: 0%;
+}
+h5{
+  margin: 0;
+}
 .info {
   margin: 0%;
 }
@@ -18,4 +24,7 @@ h1 {
   text-align: left;
   width: 100%;
   margin-bottom: 20px;
+}
+footer {
+  text-align: center;
 }
